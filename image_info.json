@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "пурпурпур.jpg",
+    "url": "https://cataas.com/cat/says/%D0%BF%D1%83%D1%80%D0%BF%D1%83%D1%80%D0%BF%D1%83%D1%80?fontColor=white&fontSize=85",
+    "size_bytes": 187435,
+    "status": "uploading"
+  },
+  {
+    "filename": "мяу.jpg",
+    "url": "https://cataas.com/cat/says/%D0%BC%D1%8F%D1%83?fontColor=white&fontSize=85",
+    "size_bytes": 33699,
+    "status": "uploading"
+  },
+  {
+    "filename": "мимими.jpg",
+    "url": "https://cataas.com/cat/says/%D0%BC%D0%B8%D0%BC%D0%B8%D0%BC%D0%B8?fontColor=white&fontSize=85",
+    "size_bytes": 40330,
+    "status": "uploading"
+  },
+  {
+    "filename": "g.jpg",
+    "url": "https://cataas.com/cat/says/g?fontColor=white&fontSize=85",
+    "size_bytes": 27841,
+    "status": "uploading"
+  },
+  {
+    "filename": "мр.jpg",
+    "url": "https://cataas.com/cat/says/%D0%BC%D1%80?fontColor=white&fontSize=85",
+    "size_bytes": 2977303,
+    "status": "uploading"
+  }
+]
