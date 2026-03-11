@@ -1,0 +1,25 @@
+# Виртуальное окружение
+venv/
+env/
+.env
+.venv
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы данных
+*.json
+!image_info.json.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
