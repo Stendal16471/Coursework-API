@@ -20,28 +20,27 @@
 
 ## 📦 Установка и запуск
 
-1. **Клонировать репозиторий**
-   ```bash
-   git clone https://github.com/Stendal16471/Coursework-API.git
-   cd Coursework-API
-   ```
+1. Клонировать репозиторий
+git clone https://github.com/Stendal16471/Coursework-API.git
+cd Coursework-API
 
-2. **Создать виртуальное окружение**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # для Linux/Mac
-   venv\Scripts\activate     # для Windows
-   ```
+2. Создать виртуальное окружение
+python -m venv venv
 
-3. **Установить зависимости**
-   ```bash
-   pip install -r requirements.txt
-   ```
+Активация для Linux/Mac:
+source venv/bin/activate
 
-4. **Запустить скрипт**
-   ```bash
-   python code.py
-   ```
+Активация для Windows:
+venv\Scripts\activate
+
+3. Установить зависимости
+pip install -r requirements.txt
+
+4. Получить токен Яндекс.Диска
+Перейдите на Полигон Яндекс.Диска (yandex.ru/dev/disk/poligon/) и скопируйте ваш OAuth-токен.
+
+5. Запустить скрипт
+python code.py
 
 6. Ввести данные
 - Введите любой текст (например, "Привет, мир!")
