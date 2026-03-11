@@ -92,15 +92,15 @@ python code.py
 
 Coursework-API/
 
-├── code.py                 # Основной скрипт
+├── code.py                    # Основной скрипт
 
-├── requirements.txt        # Зависимости
+├── requirements.txt           # Зависимости
 
-├── image_info.json         # История загрузок
+├── image_info.json            # История загрузок
 
-├── .gitignore             # Игнорируемые файлы
+├── .gitignore                # Игнорируемые файлы
 
-└── README.md              # Этот файл
+└── README.md                 # Этот файл
 
 ## 🔧 Требования
 
@@ -132,6 +132,7 @@ Coursework-API/
   
 - Работы с файлами и JSON
 Создания удобного CLI-интерфейса
+
 
 
 
