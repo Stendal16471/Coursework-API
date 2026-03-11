@@ -91,6 +91,7 @@ python code.py
 ## 📁 Структура проекта
 
 Coursework-API/
+
 ├── code.py                 # Основной скрипт
 
 ├── requirements.txt        # Зависимости
@@ -131,5 +132,6 @@ Coursework-API/
   
 - Работы с файлами и JSON
 Создания удобного CLI-интерфейса
+
 
 
